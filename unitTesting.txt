@@ -1,0 +1,4 @@
+goal is to write unit testing to cover all the problems your code might
+encounter.
+
+red green refactor
